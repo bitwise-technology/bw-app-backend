@@ -20,3 +20,8 @@ Descreva como testar as funcionalidades ou correções, forneça instruções de
 - [ ] Comentei meu código, especialmente em áreas difíceis de entender;
 - [ ] Testes de unidade novos e existentes funcionaram localmente com minhas alterações;
 - [ ] Novas dependências foram adicionadas;
+
+<!--
+Obrigado pela sua contribuição!
+Por favor, preencha todas as informações corretamente.
+-->
