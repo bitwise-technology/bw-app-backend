@@ -8,7 +8,7 @@ Escreva um breve resumo sobre sua funcionalidade ou problema corrigido.
 
 - [ ] ✨ Nova funcionalidade
 - [ ] 🐛 Solução de bug
-- [ ] 👷 Refactor
+- [ ] ♻️ Refactor
 - [ ] 📚 Documentação
 
 ## 🧪 Como testar
