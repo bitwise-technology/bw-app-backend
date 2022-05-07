@@ -22,6 +22,6 @@ Descreva como testar as funcionalidades ou correções, forneça instruções de
 - [ ] Novas dependências foram adicionadas;
 
 <!--
-Obrigado pela sua contribuição!
+Obrigado pela sua contribuição 💜
 Por favor, preencha todas as informações corretamente.
 -->
