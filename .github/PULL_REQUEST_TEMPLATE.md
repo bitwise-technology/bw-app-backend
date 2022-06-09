@@ -11,15 +11,15 @@ Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descreven
 - [ ] ♻️ Refactor
 - [ ] 📚 Documentação
 
-## 🧪 Como testar
-
-Descreva como testar as funcionalidades ou correções, forneça instruções de como rodar os testes e liste todos os detalhes relevantes.
-
 ## ✅ Checklist
 
 - [ ] Comentei meu código, especialmente em áreas difíceis de entender;
 - [ ] Testes de unidade novos e existentes funcionaram localmente com minhas alterações;
 - [ ] Novas dependências foram adicionadas;
+
+## 🧪 Como testar
+
+Descreva como testar as funcionalidades ou correções, forneça instruções de como rodar os testes e liste todos os detalhes relevantes.
 
 ## 📺 Screenshots & demo
 
