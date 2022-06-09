@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Escreva um breve resumo sobre sua funcionalidade ou problema corrigido.
+Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descrevendo com detalhes so que se trata o Pull Request.
 
 ## 🧑‍💻 Tipo de alteração
 
@@ -20,6 +20,10 @@ Descreva como testar as funcionalidades ou correções, forneça instruções de
 - [ ] Comentei meu código, especialmente em áreas difíceis de entender;
 - [ ] Testes de unidade novos e existentes funcionaram localmente com minhas alterações;
 - [ ] Novas dependências foram adicionadas;
+
+## 📺 Screenshots & demo
+
+Mostre Screenshots, vídeos ou gifs da funcionalidade rodando no seu ambiente de desenvolvimento se necessário.
 
 <!--
 Obrigado pela sua contribuição 💜
