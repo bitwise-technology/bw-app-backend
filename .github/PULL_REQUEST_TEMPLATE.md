@@ -38,7 +38,7 @@ Descreva como testar as funcionalidades ou correções, forneça instruções de
 
 ## 📺 Screenshots & demo
 
-Mostre Screenshots, vídeos ou gifs da funcionalidade rodando no seu ambiente de desenvolvimento se necessário.
+Mostre screenshots, vídeos ou gifs da funcionalidade rodando no seu ambiente de desenvolvimento se necessário.
 
 <!--
 Obrigado pela sua contribuição 💜
