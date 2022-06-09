@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descrevendo com detalhes so que se trata o Pull Request.
+Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descrevendo com detalhes do que se trata o Pull Request.
 
 ## 🧑‍💻 Tipo de alteração
 
@@ -12,6 +12,8 @@ Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descreven
 - [ ] 📚 Documentação
 
 ## 📚 Novas dependências
+
+Motivos que fizeram ser adicionadas novas dependências no projeto.
 
 - [Nome da dependência com o link para a documentação](): Motivo pelo qual foi escolhida tal dependência.
 
