@@ -11,6 +11,29 @@ Escreva um breve resumo sobre sua funcionalidade ou problema corrigido descreven
 - [ ] ♻️ Refactor
 - [ ] 📚 Documentação
 
+## 🧐 Motivo e contexto
+
+Descrição do por que o pull request é necessário.
+
+<!--
+EXEMPLO
+
+Essa feature é necessária pois ela será o ponto de entrada para o registro do usuário na plataforma da BW.
+
+OU PARA BUGS
+
+Devido a propriedade X não estar sendo validada no endpoint de signup do usuário, o backend estava retornando SERVER INTERNAL ERROR para o usuário final.
+
+```golang
+// Snippet from code where the bug is happen
+type User struct {
+	name string
+	gender string
+	phone string // <-- This required field was not been validated
+}
+```
+-->
+
 ## 📚 Novas dependências
 
 Motivos que fizeram ser adicionadas novas dependências no projeto.
