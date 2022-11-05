@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"bw-api/app/controllers"
+	"bw-api/internal/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )
